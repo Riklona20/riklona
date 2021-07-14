@@ -1,2 +1,0 @@
-# riklona
-Hack kamera
